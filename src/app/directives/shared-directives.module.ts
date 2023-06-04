@@ -10,3 +10,4 @@ import { ImageFadeDirective } from './image-fade.directive';
   exports: [ImageFadeDirective]
 })
 export class SharedDirectivesModule { }
+

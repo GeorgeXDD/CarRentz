@@ -27,4 +27,5 @@ export class ImageFadeDirective {
       this.renderer.setStyle(this.cover, 'padding-right', `${newPadding}%`);
     });
   }
+  
 }
