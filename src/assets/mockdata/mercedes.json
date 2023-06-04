@@ -1,0 +1,7 @@
+[
+  { "id": 0, "image": "mercedesAmgGtr", "title": "Mercedes AMG GTR" },
+  { "id": 1, "image": "mercedesAmgCls", "title": "Mercedes AMG CLS" },
+  { "id": 2, "image": "mercedesSlC", "title": "Mercedes SL Cabrio" },
+  { "id": 3, "image": "mercedesGle", "title": "Mercedes GLE" }
+]
+

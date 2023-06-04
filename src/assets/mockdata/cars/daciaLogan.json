@@ -1,0 +1,22 @@
+{
+    "artist": "Dacia",
+    "backgroundColor": "#445058",
+    "image": "daciaLogan",
+    "released": 2023,
+    "title": "Dacia Logan",
+    "fuel": "Petrol",
+    "engine": "Petrol-LPG 1.0L H4D",
+    "power": "99 hp",
+    "torque": "184 lb-ft",
+    "doors": "4-Door Sedan",
+    "seats": "5 Seats",
+    "transmission": "Manual 6-speed",
+    "suspension": "Four-wheel independent suspension",
+    "tires": "185/65R15 tires",
+    "wheels": "15.0 in. wheels",
+    "drive": "All Wheel Drive(AWD)",
+    "warranty": "Standard 4 years",
+    "price": "$15,350",
+    "website":"https://www.dacia.ro/gama-dacia/logan.html"
+  }
+  

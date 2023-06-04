@@ -1,0 +1,21 @@
+{
+  "artist": "Audi",
+  "backgroundColor": "#82898f",
+  "image": "audiA6",
+  "released": 2023,
+  "title": "Audi A6",
+  "fuel": "Diesel/Petrol",
+  "engine": "Turbocharged 3.0L V6",
+  "power": "335 hp",
+  "torque": "369 lb-ft",
+  "doors": "4-Door Sedan",
+  "seats": "5 Seats",
+  "transmission": "Automatic 7-Speed dual-clutch",
+  "suspension": "Adjustable air suspension",
+  "tires": "245/45R H tires",
+  "wheels": "19 in. wheels",
+  "drive": "All Wheel Drive(AWD)",
+  "warranty": "Standard 4 years",
+  "price": "$57,995",
+  "website":"https://www.caranddriver.com/audi/a6"
+}

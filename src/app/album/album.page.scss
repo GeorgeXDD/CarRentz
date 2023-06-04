@@ -43,3 +43,15 @@ ion-content {
     z-index: 10;
     background: linear-gradient(var(--custombg) 20%, var(--ion-color-dark) 30%);
 }
+
+.horizontal-line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .line {
+    width: 100%;
+    border-top: 1px solid rgb(167, 167, 167);
+  }
+  

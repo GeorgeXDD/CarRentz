@@ -1,0 +1,21 @@
+{
+  "artist": "Audi",
+  "backgroundColor": "#3d4c6c",
+  "image": "audiA4",
+  "released": 2023,
+  "title": "Audi A4",
+  "fuel": "Diesel/Petrol",
+  "engine": "Turbocharged 2.0L 4-Cylinder",
+  "power": "261 hp",
+  "torque": "273 lb-ft",
+  "doors": "4-Door Sedan",
+  "seats": "5 Seats",
+  "transmission": "Automatic 7-Speed",
+  "suspension": "Standard",
+  "tires": "225/50R H tires",
+  "wheels": "17 in. wheels",
+  "drive": "All Wheel Drive/AWD",
+  "warranty": "Standard 4 years",
+  "price": "$40,995",
+  "website":"https://www.caranddriver.com/audi/a4"
+}

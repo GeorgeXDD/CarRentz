@@ -1,0 +1,21 @@
+{
+  "artist": "Audi",
+  "backgroundColor": "#79797c",
+  "image": "audiQ4E",
+  "released": 2023,
+  "title": "Audi Q4 E-Tron",
+  "fuel": "Electric",
+  "engine": "310 magnet synchronous electric motor",
+  "power": "201 hp",
+  "torque": "229 lb-ft",
+  "doors": "4-Door Wagon",
+  "seats": "5 Seats",
+  "transmission": "1-speed direct drive",
+  "suspension": "Four-wheel independent suspension",
+  "tires": "255/50R19 tires",
+  "wheels": "19 in. wheels",
+  "drive": "Rear wheel drive(RWD)",
+  "warranty": "Standard 4 years",
+  "price": "$51,000",
+  "website":"https://www.caranddriver.com/audi/q4-e-tron"
+}

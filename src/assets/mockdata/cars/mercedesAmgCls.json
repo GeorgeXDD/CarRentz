@@ -1,0 +1,22 @@
+{
+    "artist": "Mercedes",
+    "backgroundColor": "#282c34",
+    "image": "mercedesAmgCls",
+    "released": 2022,
+    "title": "Mercedes AMG CLS",
+    "fuel": "Diesel/Petrol",
+    "engine": "Turbocharged 3.0L V6",
+    "power": "362 hp",
+    "torque": "369 lb-ft",
+    "doors": "4-Door Sedan",
+    "seats": "5 Seats",
+    "transmission": "Automatic 7-speed",
+    "suspension": "Four-wheel independent suspension",
+    "tires": "275/35R19 tires",
+    "wheels": "11 in. wheels",
+    "drive": "All Wheel Drive(AWD)",
+    "warranty": "Standard 4 years",
+    "price": "$77,000",
+    "website":"https://www.caranddriver.com/mercedes-benz/cls-class"
+  }
+  

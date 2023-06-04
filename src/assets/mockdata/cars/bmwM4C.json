@@ -1,0 +1,22 @@
+{
+    "artist": "BMW",
+    "backgroundColor": "#124575",
+    "image": "bmwM4C",
+    "released": 2023,
+    "title": "BMW M4 Coupe",
+    "fuel": "Diesel/Petrol/Gas",
+    "engine": "Turbocharged 2.0L 4-Cylinder 8A",
+    "power": "473 hp",
+    "torque": "294 lb-ft",
+    "doors": "2-Door Coupe",
+    "seats": "4 Seats",
+    "transmission": "Automatic 8-speed shiftable",
+    "suspension": "Four-wheel independent suspension",
+    "tires": "245/45R H tires",
+    "wheels": "18 x 8.5 in. wheels",
+    "drive": "Rear Wheel Drive(RWD)",
+    "warranty": "Standard 4 years",
+    "price": "$75,900",
+    "website":"https://www.caranddriver.com/bmw/m4-2023"
+  }
+  

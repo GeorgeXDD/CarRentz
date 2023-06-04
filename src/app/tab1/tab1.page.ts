@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 
-import recentlyPlayed from '../../assets/mockdata/recentlyPlayed.json';
-import heavyRotation from '../../assets/mockdata/heavyRotation.json';
-import jumpBackIn from '../../assets/mockdata/jumpBackIn.json';
+import audi from '../../assets/mockdata/audi.json';
+import bmw from '../../assets/mockdata/bmw.json';
+import mercedes from '../../assets/mockdata/mercedes.json';
+import dacia from '../../assets/mockdata/dacia.json';
 
 @Component({
   selector: 'app-tab1',
@@ -14,16 +15,20 @@ export class Tab1Page {
 
   data = [
     {
-      title: 'Recently played',
-      albums: recentlyPlayed
+      title: 'Audi',
+      cars: audi
     },
     {
-      title: 'Heavy rotation',
-      albums: heavyRotation
+      title: 'BMW',
+      cars: bmw
     },
     {
-      title: 'Jump back in',
-      albums: jumpBackIn
+      title: 'Mercedes',
+      cars: mercedes
+    },
+    {
+      title: 'Dacia',
+      cars: dacia
     }
   ];
 
@@ -38,12 +43,11 @@ export class Tab1Page {
     
   }
 
-  openAlbum(album) {
-    const titleEscaped = encodeURIComponent(album.title);
+  openCar(car) {
+    const titleEscaped = encodeURIComponent(car.title);
     this.router.navigateByUrl(`/tabs/tab1/${titleEscaped}`);
   }
 
-  // Helper function for image names
   dasherize(string) {
     return string.replace(/[A-Z]/g, function(char, index) {
       return (index !== 0 ? '-' : '') + char.toLowerCase();

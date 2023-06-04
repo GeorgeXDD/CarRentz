@@ -1,0 +1,22 @@
+{
+    "artist": "BMW",
+    "backgroundColor": "#cdcdcd",
+    "image": "bmwX6",
+    "released": 2023,
+    "title": "BMW X6",
+    "fuel": "Diesel/Petrol/Gas",
+    "engine": "Turbocharged 4.4L V8",
+    "power": "600 hp",
+    "torque": "553 lb-ft",
+    "doors": "4-Door Wagon",
+    "seats": "5 Seats",
+    "transmission": "Automatic 8-speed shiftable",
+    "suspension": "Four-wheel independent suspension",
+    "tires": "315/35R Y tires",
+    "wheels": "21 x 11.5 in. wheels",
+    "drive": "All Wheel Drive(AWD)",
+    "warranty": "Standard 4 years",
+    "price": "$70,700",
+    "website":"https://www.caranddriver.com/bmw/x6-2023"
+  }
+  

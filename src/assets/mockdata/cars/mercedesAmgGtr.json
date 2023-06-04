@@ -1,0 +1,22 @@
+{
+    "artist": "Mercedes",
+    "backgroundColor": "#165e42",
+    "image": "mercedesAmgGtr",
+    "released": 2023,
+    "title": "Mercedes AMG GTR",
+    "fuel": "Diesel/Petrol",
+    "engine": "Twin-Turbo+Intercooler 4.0L V8",
+    "power": "577 hp",
+    "torque": "516 lb-ft",
+    "doors": "2-Door Coupe",
+    "seats": "2 Seats",
+    "transmission": "Automatic 7-speed",
+    "suspension": "Four-wheel independent suspension",
+    "tires": "325/30R20 tires",
+    "wheels": "11 in. wheels",
+    "drive": "Rear Wheel Drive(RWD)",
+    "warranty": "Standard 4 years",
+    "price": "$373,277",
+    "website":"https://www.caranddriver.com/mercedes-benz/sls-amg"
+  }
+  

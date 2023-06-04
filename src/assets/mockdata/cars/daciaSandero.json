@@ -1,0 +1,21 @@
+{
+    "artist": "Dacia",
+    "backgroundColor": "#3c4950",
+    "image": "daciaSandero",
+    "released": 2023,
+    "title": "Dacia Sandero",
+    "engine": "TCe 90 CVT V3",
+    "power": "90 hp",
+    "torque": "104 lb-ft",
+    "doors": "4-Door Sedan",
+    "seats": "5 Seats",
+    "transmission": "Manual CVT",
+    "suspension": "Four-wheel independent suspension",
+    "tires": "195/55R16 tires",
+    "wheels": "15.0 in. wheels",
+    "drive": "All Wheel Drive(AWD)",
+    "warranty": "Standard 4 years",
+    "price": "$13,900",
+    "website":"https://www.dacia.ro/gama-dacia/sandero.html"
+  }
+  

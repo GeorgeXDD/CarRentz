@@ -1,0 +1,22 @@
+{
+    "artist": "Dacia",
+    "backgroundColor": "#2e4645",
+    "image": "daciaDuster",
+    "released": 2023,
+    "title": "Dacia Duster",
+    "fuel": "Diesel/Petrol",
+    "engine": "TCe 150 CVT V4",
+    "power": "149 hp",
+    "torque": "184 lb-ft",
+    "doors": "4-Door Sedan",
+    "seats": "5 Seats",
+    "transmission": "Manual 6-speed",
+    "suspension": "Four-wheel independent suspension",
+    "tires": "215/60R17 tires",
+    "wheels": "15.0 in. wheels",
+    "drive": "All Wheel Drive(AWD)",
+    "warranty": "Standard 4 years",
+    "price": "$24,650",
+    "website":"https://www.dacia.ro/gama-dacia/duster-ph2.html"
+  }
+  

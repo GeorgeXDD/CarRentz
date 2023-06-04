@@ -1,0 +1,21 @@
+{
+  "artist": "Audi",
+  "backgroundColor": "#7e858c",
+  "image": "audiQ5",
+  "released": 2023,
+  "title": "Audi Q5",
+  "fuel": "Diesel/Petrol/Gas",
+  "engine": "Turbocharged 2.0L 4-Cylinder",
+  "power": "201 hp",
+  "torque": "236 lb-ft",
+  "doors": "4-Door Wagon",
+  "seats": "5 Seats",
+  "transmission": "Automatic 7-Speed S tronic",
+  "suspension": "Four-wheel independent suspension",
+  "tires": "235/60R18 tires",
+  "wheels": "18 in. wheels",
+  "drive": "All Wheel Drive(AWD)",
+  "warranty": "Standard 4 years",
+  "price": "$45,500",
+  "website": "https://www.caranddriver.com/audi/q5"
+}

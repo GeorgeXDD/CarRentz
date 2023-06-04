@@ -1,0 +1,21 @@
+{
+  "artist": "Audi",
+  "backgroundColor": "#5c6b58",
+  "image": "audiA5",
+  "released": 2023,
+  "title": "Audi A5",
+  "fuel": "Diesel/Petrol",
+  "engine": "Turbocharged 3.0L V6",
+  "power": "349 hp",
+  "torque": "369 lb-ft",
+  "doors": "4-Door Sedan",
+  "seats": "5 Seats",
+  "transmission": "Automatic 7-Speed dual-clutch",
+  "suspension": "Standard",
+  "tires": "245/40R H tires",
+  "wheels": "18 in. wheels",
+  "drive": "All Wheel Drive(AWD)",
+  "warranty": "Standard 4 years",
+  "price": "$45,195",
+  "website": "https://www.caranddriver.com/audi/a5-sportback"
+}

@@ -1,0 +1,22 @@
+{
+    "artist": "Mercedes",
+    "backgroundColor": "#5a2215",
+    "image": "mercedesGle",
+    "released": 2023,
+    "title": "Mercedes GLE",
+    "fuel": "Diesel/Petrol/Gas",
+    "engine": "Turbocharged 3.0L V6",
+    "power": "429 hp",
+    "torque": "384 lb-ft",
+    "doors": "4-Door Wagon",
+    "seats": "5 Seats",
+    "transmission": "Automatic 9-speed shiftable",
+    "suspension": "Four-wheel independent suspension",
+    "tires": "295/35R20 tires",
+    "wheels": "20 x 11.0 in. wheels",
+    "drive": "All Wheel Drive(AWD)",
+    "warranty": "Standard 4 years",
+    "price": "$58,200",
+    "website":"https://www.caranddriver.com/mercedes-benz/gle-class-2023"
+  }
+  
